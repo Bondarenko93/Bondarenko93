@@ -3,7 +3,7 @@
 
 I'm using PUG, SASS, and JavaScript to make websites dance. 🕺🏽
 
-**I love working with**
+**I skilled with working **
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
