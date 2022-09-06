@@ -34,7 +34,7 @@ I'm using PUG, SASS, and JavaScript to make websites dance. 🕺🏽
 
 - Projects for freelance clients.
 
-### 🌱 I’m learning
+### 🌱 Immersed in learning 
 
 <div display="flex">
   <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=golang&logoColor=white" alt="Golang"/>
