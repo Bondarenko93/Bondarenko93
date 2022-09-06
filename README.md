@@ -30,9 +30,6 @@ I'm using PUG, SASS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=PHP&logoColor=blue" alt="PHP"/>
 </div>
 
-### 🔭 I’m working on
-
-- Projects for freelance clients.
 
 ### 🌱 Immersed in learning 
 
